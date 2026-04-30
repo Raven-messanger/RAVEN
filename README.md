@@ -137,9 +137,9 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 📞 Contact
 
-- **Support**: support@hybridmessenger.com
-- **Security**: security@hybridmessenger.com
-- **Feature Requests**: feedback@hybridmessenger.com
+- **Support**: INFO@raven-messeager.com
+- **Security**: info@raven-messeager.com
+- **Feature Requests**: info@raven-messeager.com
 
 ---
 
